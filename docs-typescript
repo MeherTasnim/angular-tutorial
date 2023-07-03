@@ -1,0 +1,11 @@
+Typrscript
+
+Typescript is a superset of JS
+Features:
+Strong typing
+Object-oriented Features
+Compile-time errors
+Great tooling
+
+
+Transpile TS into JS when creating app for browsers to understand
